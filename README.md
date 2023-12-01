@@ -23,10 +23,10 @@ An investor can place an order to buy 100 shares of company XYZ at a price of $1
 ### Evaluation
 The challenge will be evaluated based on the following criteria:
 
-**Architecture and design**: The system should be well-designed and architected, with attention to concepts such as scalability, performance, and security.
-**Implementation**: The system should be implemented correctly and efficiently, using the best programming practices.
-**Features**: The system should meet all the specified requirements.
-**Testing**: The system should be well-tested to ensure it is free of errors.
+- **Architecture and design**: The system should be well-designed and architected, with attention to concepts such as scalability, performance, and security.
+- **Implementation**: The system should be implemented correctly and efficiently, using the best programming practices.
+- **Features**: The system should meet all the specified requirements.
+- **Testing**: The system should be well-tested to ensure it is free of errors.
 
 ### Delivery Time:
 
